@@ -1,0 +1,76 @@
+primary:
+  - title: Main Menu
+    subfolderitems:
+      - name: "Home"
+        url: "../"
+        weight: 1
+      # - name: "Tasks"
+      #   url: "#"
+      #   weight: 2
+      #   # subsubfolderitems:
+      #   #   - name: "Task 1"
+      #   #     url: "/task1/"
+      #   #     weight: 2
+      #   #   - name: "Task 2"
+      #   #     url: "/task2/"
+      #   #     weight: 2
+      - name: "Speakers"
+        url: "/speakers/"
+        weight: 2
+      - name: "Content"
+        url: "/content/"
+        weight: 3
+      - name: "Reading list"
+        url: "/reading_list/"
+        weight: 4
+
+footer_menu_one_title: Usefull Link
+menu_one:
+
+- title: "About us"
+  url: "/about/"
+
+- title: "FAQ"
+  url: "/faq/"
+
+- title: "Contact"
+  url: "/contact/"
+
+- title: "Blog"
+  url: "/blog/"
+
+footer_menu_two_title: Resources
+menu_two:
+
+- title: "Home"
+  url: "../"
+
+- title: "Testimonial"
+  url: "/testimonial/"
+
+- title: "Blog"
+  url: "/blog/"
+
+- title: "Pricing"
+  url: "/pricing/"
+
+- title: "404"
+  url: "/404/"
+
+footer_menu_three_title: Company
+menu_three:
+
+- title: "About us"
+  url: "/about/"
+
+- title: "FAQ"
+  url: "/faq/"
+
+- title: "Contact"
+  url: "/contact/"
+
+- title: "404"
+  url: "/404/"
+
+- title: "Blog"
+  url: "/blog/"

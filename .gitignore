@@ -1,0 +1,11 @@
+# Jekyll / GitHub Pages
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+
+# Ruby
+Gemfile.lock
+
+# OS
+.DS_Store
