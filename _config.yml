@@ -1,4 +1,4 @@
-url: "http://mm-llms-in-the-wild.github.io"
+url: "https://mm-llms-in-the-wild.github.io"
 baseurl: ""
 permalink: /:title/
 title: "Multilingual and Multimodal LLMs in the Wild"

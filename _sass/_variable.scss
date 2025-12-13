@@ -1,34 +1,36 @@
 // colors
 :root {
-    --primary: #5755D9;
-    --dark: #000000;
+    --primary: #0f766e; // deep teal
+    --primary-strong: #115e59;
+    --accent: #f97316; // warm coral
+    --muted: #0b1f2a;
     --white: #ffffff;
-    --yellow: #F9AB17;
-    --secondary: var(--dark);
-    --text-color: #4A4A4A;
-    --gray-text: #444444;
+    --text-color: #1c2430;
+    --gray-text: #475569;
+    --card-border: #e2e8f0;
+    --card-shadow: 0 16px 40px rgba(15, 118, 110, 0.08);
 }
 
-$info-color: #7047EB;
-$tertiary-color: #4582ff;
+$info-color: var(--primary);
+$tertiary-color: #0ea5e9;
 $quinary-color: #01bda6;
 $senary-color: #80376B;
-$tertiary-light-color: #00B7FF;
+$tertiary-light-color: #22d3ee;
 
 $white-color: #fff;
 $black-color: #000000;
-$body-color: #686f7a;
+$body-color: #475569;
 $border-color: #ECECEC;
 $border-color2: #C4C4C4;
 $gray-color: #5E687C;
 
 // bg color
-$bg-1: #f4f4f4;
-$bg-2: #FDF7E9;
-$bg-3: #F6D693;
+$bg-1: #f8fafc;
+$bg-2: #fdf7ec;
+$bg-3: #eef2ff;
 $bg-5:#F1FBFC;
 
-$bg-lighten: $bg-2;
+$bg-lighten: $bg-1;
 
 // border radius
 $border-radius-sm: 5px;
