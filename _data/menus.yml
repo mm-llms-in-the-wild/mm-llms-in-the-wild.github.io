@@ -2,7 +2,7 @@ primary:
   - title: Main Menu
     subfolderitems:
       - name: "Home"
-        url: "../"
+        url: "/"
         weight: 1
       # - name: "Tasks"
       #   url: "#"
@@ -27,50 +27,23 @@ primary:
 footer_menu_one_title: Usefull Link
 menu_one:
 
-- title: "About us"
-  url: "/about/"
+- title: "Home"
+  url: "/"
 
-- title: "FAQ"
-  url: "/faq/"
+- title: "Speakers"
+  url: "/speakers/"
 
-- title: "Contact"
-  url: "/contact/"
-
-- title: "Blog"
-  url: "/blog/"
+- title: "Content"
+  url: "/content/"
 
 footer_menu_two_title: Resources
 menu_two:
 
-- title: "Home"
-  url: "../"
-
-- title: "Testimonial"
-  url: "/testimonial/"
-
-- title: "Blog"
-  url: "/blog/"
-
-- title: "Pricing"
-  url: "/pricing/"
-
-- title: "404"
-  url: "/404/"
+- title: "Reading list"
+  url: "/reading_list/"
 
 footer_menu_three_title: Company
 menu_three:
 
-- title: "About us"
-  url: "/about/"
-
-- title: "FAQ"
-  url: "/faq/"
-
-- title: "Contact"
-  url: "/contact/"
-
-- title: "404"
-  url: "/404/"
-
-- title: "Blog"
-  url: "/blog/"
+- title: "GitHub Pages URL"
+  url: "http://mm-llms-in-the-wild.github.io"

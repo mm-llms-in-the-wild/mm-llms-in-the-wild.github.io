@@ -12,6 +12,6 @@ layout: content
 ---
 
 
-**Date:** Thursday, 21 March 2024
+**Date:** TBA (aligned with the conference schedule)
 
-**Time:** 14:00 - 17:30
+**Time:** TBA

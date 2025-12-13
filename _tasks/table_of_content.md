@@ -11,4 +11,5 @@ lin: "https://linkdin.com"
 layout: content
 ---
 
-- [Schedule](table_of_content)
+- [Outline and schedule](../content/)
+- Slides and lab links will appear here as they are posted.

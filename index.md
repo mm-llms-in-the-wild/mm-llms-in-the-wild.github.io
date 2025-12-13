@@ -1,14 +1,16 @@
 ---
-title: LLMs for Low Resource Languages in Multilingual, Multimodal and Dialectal Settings
+title: Multilingual and Multimodal LLMs in the Wild
 layout: content
-description: Tutorial at EACL-2023
+description: Tutorial on building multilingual, multimodal LLMs for low-resource languages and dialects
 # intro_image: "assets/images/hero-img.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-# Welcome to "LLMs for Low Resource Languages in Multilingual, Multimodal and Dialectal Settings" Tutorial
+# Welcome to "Multilingual and Multimodal LLMs in the Wild: Building for Low-Resource Languages"
 
-The recent breakthroughs in Artificial Intelligence (AI) can be attributed to the remarkable performance of Large Language Models (LLMs) across a spectrum of research areas (e.g., machine translation, question-answering, automatic speech recognition, text-to-speech generation) and application domains (e.g., business, law, healthcare, education, and psychology). The success of these LLMs largely depends on specific training techniques, most notably instruction tuning, RLHF, and subsequent prompting to achieve the desired output. As the development of such LLMs continues to increase in both closed and open settings, evaluation has become crucial for understanding their generalization capabilities across different tasks, modalities, languages, and dialects. This evaluation process is tightly coupled with prompting, which plays a key role in obtaining better outputs. There has been attempts to evaluate such models focusing on diverse tasks, languages, and dialects, which suggests that the capabilities of LLMs are still limited for medium-to-low-resource languages due to the lack of representative datasets. The tutorial offers an overview of this emerging research area. We explore the capabilities of LLMs in terms of their performance, zero- and few-shot settings, fine-tuning, instructions tuning, and close vs. open models with a special emphasis on low-resource settings. In addition to LLMs for standard NLP tasks, we will focus on speech and multimodality.
+Multimodal LLMs now see, hear, and read—but most pipelines, datasets, and evaluations remain English-centric and compute-heavy. This tutorial focuses on practical recipes for bringing tri-modal (text, speech, vision) systems to low-resource languages and dialects. We synthesize foundations such as BLIP-2, LLaVA, KOSMOS-1, PaLM-E, PALO, and Maya; speech–text LLMs like SeamlessM4T and AudioPaLM; and efficiency techniques including PEFT, adapters, and MoE specialization.
+
+We will highlight low-cost data creation and curation, culture-aware benchmarks beyond English (xGQA, MaRVL, HaVQA), and hands-on workflows for tuning compact multilingual VLMs and wiring speech→text→LLM pipelines. Slides and lab materials will be posted here as they are finalized.
 
 
 {% include task-card.html %}

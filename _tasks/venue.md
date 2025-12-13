@@ -10,7 +10,4 @@ twi: "https://twitter.com"
 lin: "https://linkdin.com"
 layout: content
 ---
-
-[EACL 2024](https://2024.eacl.org/)
-
-**Place:** Fortress 2 Ballroom (Level -1), Corinthia St. George’s Bay Hotel, Malta.
+Conference venue and room details will be posted once the schedule is finalized.

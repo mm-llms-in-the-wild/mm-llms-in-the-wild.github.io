@@ -11,4 +11,4 @@ lin: "https://linkdin.com"
 layout: content
 ---
 
-[Reading List](reading_list)
+[Reading list and references](../reading_list)

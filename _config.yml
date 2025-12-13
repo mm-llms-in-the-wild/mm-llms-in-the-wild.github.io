@@ -1,8 +1,7 @@
-baseurl: "/LLM-low-resource-lang"
-url: "LLM-low-resource-lang.github.io"
-baseurl: ''
+url: "http://mm-llms-in-the-wild.github.io"
+baseurl: ""
 permalink: /:title/
-title: 'LLMs for Low Resource Languages'
+title: "Multilingual and Multimodal LLMs in the Wild"
 
 google_analytics_id: ""
 
@@ -14,14 +13,14 @@ logo:
   light: "assets/images/logo-light.png"
 
 footer:
-  copyright_text: 'Coyright BY-NC-SA 4.0'
+  copyright_text: "Copyright BY-NC-SA 4.0"
 
 seo:
-  meta_og_title: "Tutorial on LLMs for Low Resource Languages"
+  meta_og_title: "Multilingual and Multimodal LLMs in the Wild"
   meta_og_type: "website"
-  meta_og_url: "https://themeplugs.com"
-  meta_og_image: "g"
-  meta_og_description: "LLMs for Low Resource Languages in Multilingual, Multimodal and Dialectal Settings"
+  meta_og_url: "http://mm-llms-in-the-wild.github.io"
+  meta_og_image: "assets/images/logo.png"
+  meta_og_description: "Building inclusive multilingual, multimodal LLMs for low-resource languages"
   # meta_twitter_card: "summary"
   # meta_twitter_site: "@araieval"
   # meta_twitter_creator: "@araieval"

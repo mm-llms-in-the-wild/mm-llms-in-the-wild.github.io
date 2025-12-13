@@ -1,13 +1,11 @@
-# araieval
+# Multilingual and Multimodal LLMs in the Wild — Tutorial Site
 
-## Clone all the files in local 
-## install bunlde in local machine open terminal in the main folder and write command 
-## command line code is `bundle install`
-## if your bundle is successfullay install you will see the terminal like this [screenshot](https://prnt.sc/H69DfFTeI6J-) 
-## now run a command `bundle exec jekyll serve`
+This repository hosts the static Jekyll site for the tutorial. The GitHub Pages URL is `http://mm-llms-in-the-wild.github.io`.
 
-For more information please follow the jekyll offiicial site or contact me 
+## Local development
+1. Install Ruby and Bundler.
+2. Install gems: `bundle install`
+3. Serve locally: `bundle exec jekyll serve`
 
-[github](https://github.com/devshagor)
-
-[skype](https://join.skype.com/invite/E5lvCNqvjK3T)
+## Deployment
+Pushes to `main` trigger the GitHub Actions workflow (`.github/workflows/main.yml`) that builds the site and publishes it to the `gh-pages` branch.

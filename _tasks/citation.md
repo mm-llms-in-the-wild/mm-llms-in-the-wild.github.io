@@ -9,4 +9,6 @@ lin: "https://linkdin.com"
 layout: content
 ---
 
-<!-- **Please cite the following papers.** -->
+Please cite the tutorial as:
+
+- Alam, Firoj and Shammur Absar Chowdhury. *Multilingual and Multimodal LLMs in the Wild: Building for Low-Resource Languages.* Tutorial materials, 2026. http://mm-llms-in-the-wild.github.io.
