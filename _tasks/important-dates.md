@@ -12,6 +12,5 @@ layout: content
 ---
 
 
-**Date:** TBA (aligned with the conference schedule)
-
-**Time:** TBA
+**Date:** 16 May 2026
+**Time:** 2-6pm CET

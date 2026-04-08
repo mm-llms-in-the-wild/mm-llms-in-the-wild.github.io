@@ -11,20 +11,13 @@ bodyClass: page-task1
 If you use material from this tutorial, please cite:
 
 ```
-
-@misc{alam_chowdhury_2026_mm_llms_wild,
-  
+@misc{alam_chowdhury_2026_mm_llms_wild,  
   title        = {Multilingual and Multimodal LLMs in the Wild: Building for Low-Resource Languages},
-
   author       = {Alam, Firoj and Chowdhury, Shammur Absar},
-
   year         = {2026},
-
   howpublished = {\url{https://mm-llms-in-the-wild.github.io}},
-
   note         = {Tutorial materials}
 }
-
 ```
 
 ## Suggested reading
