@@ -12,5 +12,5 @@ layout: content
 ---
 
 
-**Date:** 16 May 2026
-**Time:** 2-6pm CET
+- **Date:** 16 May 2026
+- **Time:** 2-6pm CET
