@@ -12,5 +12,6 @@ layout: content
 ---
 
 
-- **Date:** 16 May 2026
-- **Time:** 2-6pm CET
+- **Date:** 12 May 2026
+- **Time:** 14:00-18:00 CET
+- **Coffee break:** 16:00-16:30 CET
