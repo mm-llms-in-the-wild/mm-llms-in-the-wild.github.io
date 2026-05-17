@@ -8,12 +8,10 @@ bodyClass: page-task1
 
 ## Outline (durations are approximate)
 
-- **Introduction [15 min]:** why tri-modality matters for low-resource and Global South contexts; evolution from vision–language to speech–text–vision systems.
-- **Model landscape [25 min]:** multilingual VLMs and speech–text LLMs (e.g., BLIP-2, LLaVA, PaLM-E, SeamlessM4T, AudioPaLM, PALO, Maya) with low-resource takeaways.
-- **Data creation & multilingual resources [30 min]:** low-cost pipelines (translation/back-translation, OCR/ASR bootstraps), safety/culture considerations, and multilingual evaluation sets (xGQA, MaRVL, HaVQA).
-- **Architectures & efficient training [35 min]:** adapter stacks, PEFT/LoRA/QLoRA, quantization tips, and MoE routing for modality/language specialization.
-- **Speech multimodality in practice [20 min]:** wiring speech→text→LLM pipelines; cascaded vs. unified speech–text systems and deployment trade-offs.
-- **Evaluation & error analysis [30 min]:** culture-aware benchmarks, dialect stress tests, hallucination/grounding checks, and robustness to noise/occlusion.
-- **Resources, demos & wrap-up [25 min]:** quick LoRA-tuning of a compact multilingual VLM and speech-front-end integrations; pointers to code and datasets.
-
-Slides and lab notebooks will be posted as they are finalized.
+[All Slides]({{ '/content/LREC_2026_tutorial_mllm_in_the_wild.pdf' | relative_url }})
+- **Introduction:** low-resource and challenges. ([slide]({{ '/content/part1_introduction.pdf' | relative_url }}))
+- **Multilingual and Multimodal Models:** Capabilities for low-resource languages. ([slide]({{ '/content/part2_multilingual_and_multimodal_models.pdf' | relative_url }}))
+- **Multilingual & Multimodal Resource Development:** Low-cost pipeline, training, and benchmarking datasets. ([slide]({{ '/content/part3_mm_resource_development.pdf' | relative_url }}))
+- **Architectures and Efficient Training:** Adapter-based and parameter-efficient methods. ([slide]({{ '/content/part4_architectures.pdf' | relative_url }}))
+- **Speech-centric LLMs:** State-of-the-art models and curated resources. ([slide]({{ '/content/part5_speech-centric_LLMs.pdf' | relative_url }}))
+- **Evaluation & error analysis:** Evolution of Evaluation metrics, benchmarking tools and resources: ([slide]({{ '/content/part6_evaluation.pdf' | relative_url }}))
